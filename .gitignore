@@ -1,0 +1,15 @@
+# Rust
+/target
+Cargo.lock
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Environment
+.env
+
+# Advent of Code inputs (these are personalized)
+inputs/
